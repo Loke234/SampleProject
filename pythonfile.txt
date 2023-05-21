@@ -2,3 +2,5 @@ a=9
 b = 9
 print (a+b)
 Print (b+a)
+Restaurant Name Mcdonalds
+Item Name Chicken Curry
